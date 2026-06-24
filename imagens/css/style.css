@@ -1,0 +1,163 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    display: flex;
+    font-size: 48px;
+    position: relative;
+    left: 400px;
+}
+
+.início p {
+    font-size: 22px;
+}
+
+.links {
+    display: flex;
+    margin-top: 150px;
+    gap: 60px;
+}
+
+.img1 {
+    display: flex;
+    margin-left: 250px;
+    width: 450px;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.início {
+    display: flex;
+    background-color: #FBD0A0;
+}
+
+.introdução {
+    display: flex;
+}
+
+.texto_introdução {
+    margin-right: 50px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.apresentação {
+    display: flex;
+}
+
+.texto_apresentação {
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 35px;
+}
+
+.gow {
+    display: flex;
+    width: 40vw;
+}
+
+    .texto_gow {
+margin-left: 20px;
+    }
+
+.pj {
+    display: flex;
+    width: 40vw;
+    position: relative;
+    left: 600px;
+  bottom: 150px;
+}
+
+.texto_pj {
+    margin-left: 20px;
+}
+
+.hercules {
+display: flex;
+width: 40vw;
+position: relative;
+bottom: 50px;
+}
+
+.texto_hercules {
+margin-left: 20px;
+}
+
+.hades {
+    display: flex;
+width: 40vw;
+position: relative;
+left: 600px;
+bottom: 300px;
+}
+
+.texto_hades {
+margin-left: 20px;
+margin-top: 80px;
+}
+
+.p1 {
+    background-color:#F3D5C1;
+}
+
+.p2 {
+    background-color:#C1D8F3;
+    height: 600px;
+}
+
+.galeria {
+    background-color: #F3D5C1;
+    height: 1000px;
+}
+
+.cerbero {
+position: relative;
+left: 300px;
+bottom: 330px;
+}
+
+.persefone {
+position: relative;
+left: 570px;
+bottom: 680px;
+}
+
+.anime {
+position: relative;
+left: 810px;
+bottom: 1000px;
+}
+
+.estatua {
+position: relative;
+left: 1100px;
+bottom: 1420px;
+}
+
+.submundo {
+position: relative;
+left: 250px;
+bottom: 1280px;
+}
+
+.tatuagem {
+    position: relative;
+left: 680px;
+bottom: 1420px;
+}
+
+.rodapé {
+    margin-left: 550px;
+    position: relative;
+    bottom: 1380px;
+}
+
